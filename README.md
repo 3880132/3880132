@@ -3,7 +3,7 @@
 Add all the details here...
 
 ### Check out some of the projects I've worked on
-[*Klebsiella pneumoniae*- Antimicrobial Resistance Prediction Dashboard: PredKlebAMR-V1](https://jimmysmilez-predklebamr.hf.space/)
+[*Klebsiella pneumoniae*- Antimicrobial Resistance Prediction Dashboard: PredKlebAMR-V1](https://jimmysmilez-predklebamr.hf.space/).
 [Kenyan Human Gut Virome Catalogue Dashboard](https://p4e766-james-mordecai.shinyapps.io/kenyavirocat/)
 
 ### Connect with me 
