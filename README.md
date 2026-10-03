@@ -1,6 +1,8 @@
-# Abiola A. Babajide
-#### Microbiologist | Biomedical Informatician | Pharmacologist | Seasoned Researcher | Passionate Teacher
-Add all the details here...
+I started out as a Microbiologist, progressed to Biomedical Informatics, and I am currently associated with research in Pharmacology and Drug development.
+
+Aside loving wet-lab experiments, I am gradually merging dry-lab experience into my portfolio, a great blend for a seasoned researcher.
+
+I am a passionate teacher and a life coach.
 
 ### Check out some of the projects I've worked on
 [*Klebsiella pneumoniae*- Antimicrobial Resistance Prediction Dashboard: PredKlebAMR-V1](https://jimmysmilez-predklebamr.hf.space/)
